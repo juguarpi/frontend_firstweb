@@ -41,7 +41,7 @@ class Signin extends Component {
 
             <div className="text-center m-5">
             <form className="form-signin border border-success rounded shadow-lg" >
-                <h1 className="h3 mb-3 font-weight-normal">Please sign in NOW1</h1>
+                <h1 className="h3 mb-3 font-weight-normal">Please sign in</h1>
                 <div className="text-danger"> {this.state.signInMessage} </div>
                 <label className="sr-only">Email address</label>
                 <input type="email" id="inputEmailS" className="form-control" placeholder="Email address" />
