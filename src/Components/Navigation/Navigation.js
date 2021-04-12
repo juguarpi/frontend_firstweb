@@ -17,7 +17,7 @@ class Navigation extends Component {
                 <div className="bg-info container align-middle" style={{height : 40}}>
                 <div className="row">
                     <div className="col-sm" href="#">
-                        <h3 className="d-inline" >COUNTER</h3>
+                        <h3 className="d-inline" >COUNTER 2021-04-12 08:29</h3>
                     </div>
                     <div className ="col-sm text-right align-middle h6" >
                     { (signinStatus)?
